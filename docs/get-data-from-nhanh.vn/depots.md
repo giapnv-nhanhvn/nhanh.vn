@@ -1,4 +1,4 @@
-# /api/store/depots
+# /api/store/depots (Đã bỏ)
 
 * Tính năng này dùng để lấy danh sách kho của doanh nghiệp. Hỗ trợ tìm kiếm thông qua ID kho.
 
