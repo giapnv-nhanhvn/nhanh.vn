@@ -26,15 +26,21 @@ data = [
    depotId1: [
       name: Tên kho,
       cityId: ID thành phố,
+      cityName: Tên thành phố,
       districtId: ID quận huyện,
+      districtName: Tên quận huyện,
       wardId: ID phường xã,
+      wardName: Tên phường xã,
       address: Địa chỉ kho
    ],
    depotId2: [
       name: Tên kho,
       cityId: ID thành phố,
+      cityName: Tên thành phố,
       districtId: ID quận huyện,
+      districtName: Tên quận huyện,
       wardId: ID phường xã,
+      wardName: Tên phường xã,
       address: Địa chỉ kho
    ],
    [...]
