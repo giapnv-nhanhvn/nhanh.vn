@@ -66,6 +66,11 @@ JSON decode the response to get the structure:
 | technicalName | string | Tên nhân viên kỹ thuật |
 | description | string | ghi chú của hóa đơn |
 | products | array | Danh sách sản phẩm theo hóa đơn \[Xem bảng bên dưới\] |
+| cash | int | Tiền mặt khách trả |
+| moneyReturn | int | Tiền trả lại khách (hóa đơn khách trả) |
+| creditMoney | int | Tiền quẹt thẻ |
+| moneyTransfer | int | Tiền chuyển khoản |
+| installmentMoney | int | Tiền trả góp |
 
 * Products: Danh sách sản phẩm XNK trong phiếu
 
