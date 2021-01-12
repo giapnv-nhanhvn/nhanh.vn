@@ -1,6 +1,6 @@
 # /api/order/index
 
-* Tính năng này dùng để lấy danh sách đơn hàng.
+* Tính năng này dùng để lấy danh sách đơn hàng (Hỗ trợ lấy dữ liệu trong vòng 10 ngày).
 
 ## Request
 
