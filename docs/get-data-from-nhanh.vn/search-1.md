@@ -13,6 +13,7 @@
 | icpp | int | No | Số lượng khách hàng trên 1 trang. Mặc định là 10. Tối đa không quá 50. |
 | id | int | No | Tìm kiếm khách hàng theo id. |
 | mobile | int |  | Tìm kiếm khách hàng theo số điện thoại. |
+| mobiles | string |  | Tìm kiếm khách hàng theo danh sách số điện thoại (VD: 0987654321,0986523147,0985412367...). |
 | fromLastBoughtDate | string | No | Từ ngày mua cuối cùng \(yyyy-mm-dd\) |
 | toLastBoughtDate | string | No | Đến ngày mua cuối cùng \(yyyy-mm-dd\) |
 
