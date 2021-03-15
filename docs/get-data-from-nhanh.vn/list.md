@@ -64,6 +64,7 @@ data =
             "customerShipFee": double,// Phí thu của khách,
             "returnFee": double,// Phí chuyển hoàn,
             "overWeightShipFee": double,// Phí vượt cân,
+            "declaredFee": double,// Phí mua bảo hiểm,
             "carrierServiceName": string, // Dịch vụ vân chuyển
             "description": string, // ghi chú của khách hàng
             "privateDescription" string, // ghi chú của CSKH
@@ -87,6 +88,7 @@ data =
             "trafficSourceName" : string // Tên nguồn đơn hàng
             "saleId": int // ID nhân viên bán hàng
             "saleName": string // Tên nhân viên bán hàng
+            "channel": string // Kênh bán
             "products": array, // Xem bảng Order Product bên dưới
         ],
         [
