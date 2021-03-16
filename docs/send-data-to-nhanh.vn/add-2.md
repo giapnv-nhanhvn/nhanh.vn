@@ -32,7 +32,9 @@
 | customerEmail | string\(255\) | No | Địa chỉ email đặt hàng |
 | moneyDiscount | int | No | Tiền chiết khấu |
 | moneyTransfer | int | No | Số tiền khách chuyển khoản |
+| moneyTransferAccountId | int | No | Tài khoản kế toán nhận tiền chuyển khoản |
 | moneyDeposit | int | No | Số tiền khách đặt cọc |
+| moneyDepositAccountId | int | No | Tài khoản kế toán nhận tiền đặt cọc |
 | paymentMethod | string | No | Các giá trị có thể là:  COD //Thanh toán tại nhà Store // Thanh toán tại cửa hàng  Gateway // Thanh toán qua cổng thanh toán Online // thanh toán Online |
 | paymentCode | string\(255\) | No | Mã giao dịch thanh toán |
 | paymentGateway | string\(255\) | No | Tên cổng thanh toán |
